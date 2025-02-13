@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<VBox alignment="CENTER" prefHeight="569.0" prefWidth="852.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/23.0.1" fx:controller="com.example.practica_7_1.HelloController">
+<VBox alignment="CENTER" prefHeight="569.0" prefWidth="812.0" spacing="20.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.practica_7_1.HelloController">
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
@@ -35,7 +35,7 @@
                <CheckBox layoutX="48.0" layoutY="83.0" mnemonicParsing="false" text="CheckBox" />
             </children>
          </Pane>
-         <TextArea layoutX="33.0" layoutY="266.0" prefHeight="111.0" prefWidth="200.0" />
+         <TextArea layoutX="66.0" layoutY="237.0" prefHeight="111.0" prefWidth="200.0" />
          <DatePicker layoutX="490.0" layoutY="120.0" />
          <ChoiceBox layoutX="502.0" layoutY="203.0" prefWidth="150.0" />
          <Slider layoutX="507.0" layoutY="285.0" />
